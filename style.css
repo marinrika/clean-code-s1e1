@@ -38,18 +38,18 @@
 }
 #incomplete-tasks,
 #completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .list-item, .title-task {
-  list-style:none;
+  list-style: none;
 }
 .checkbox-task, 
 .input-task, 
 .add-task,
 .delete-task,
 .edit-task {
-  outline:none;
+  outline: none;
 }
 .add-task,
 .delete-task,
@@ -145,14 +145,14 @@
 
 /* Edit Task */
 .list-item .input-task {
-  display:none
+  display: none
 }
 
 .edit-mode .input-task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .label-task {
-  display:none;
+  display: none;
 }
